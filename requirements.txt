@@ -1,4 +1,5 @@
-streamlit
-Pillow
-rembg
-onnxruntime
+streamlit==1.33.0
+Pillow==10.3.0
+rembg==2.0.56
+onnxruntime==1.17.3
+numpy<2
